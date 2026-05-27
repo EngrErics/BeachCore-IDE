@@ -3,3 +3,5 @@
 -if serial drops off, the next connect sometimes fails
 
 **IMPROVEMENTS & FEATURES**
+-always put the executing line back at the beginning when changing code
+-Add search in code editor wth shortcut ctrl-f

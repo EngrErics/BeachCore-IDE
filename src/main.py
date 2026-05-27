@@ -748,7 +748,3 @@ if __name__ == "__main__":
     win.show()
     
     sys.exit(app.exec())
-
-
-#always put the executing line back at the beginning when changing code 
-#add search in code editor wth shortcut ctrl-f
